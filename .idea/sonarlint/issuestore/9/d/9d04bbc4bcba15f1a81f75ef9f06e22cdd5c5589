@@ -1,0 +1,26 @@
+
+x
+java:S1104"VMake doneButton a static final constant or non-public and provide accessors if needed.(“Æ¥Íøÿÿÿÿ8ïÎš2
+y
+java:S1104"WMake gotItButton a static final constant or non-public and provide accessors if needed.(êØßÑúÿÿÿÿ8ïÎš2
+‰
+java:S1104	"lMake allowPermissionWhileOnlyUsingApp a static final constant or non-public and provide accessors if needed.(¬€‡8ïÎš2
+
+java:S1104"]Make settingsBarButton a static final constant or non-public and provide accessors if needed.(„½ìˆøÿÿÿÿ8ïÎš2
+u
+java:S1104"XMake unitSettings a static final constant or non-public and provide accessors if needed.(‘±ÚĞ8ğÎš2
+‰
+java:S1104"gMake temperatureUnitDropDownUnit a static final constant or non-public and provide accessors if needed.(ˆ©ÊÑÿÿÿÿÿ8ğÎš2
+
+java:S1104"eMake temperatureFromHomeScreen a static final constant or non-public and provide accessors if needed.(ôÅØ8ğÎš2
+‹
+java:S1104"iMake temperatureUnitFromHomeScreen a static final constant or non-public and provide accessors if needed.(¯âÏ¦ÿÿÿÿÿ8ğÎš2
+}
+java:S1104"aMake getTimeFromHomeScreen a static final constant or non-public and provide accessors if needed.(±÷üd8ğÎš2
+ˆ
+java:S1104"fMake timeFormatDropDownSettings a static final constant or non-public and provide accessors if needed.(¾Š­ƒùÿÿÿÿ8ğÎš2
+
+java:S1104#"]Make chanceOfRainValue a static final constant or non-public and provide accessors if needed.(ÏÕõÇÿÿÿÿÿ8¤€üÒš2
+{
+java:S1104%"YMake humidityValue a static final constant or non-public and provide accessors if needed.(š¾°şÿÿÿÿ8¦‚ıÒš2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ƒµ¤8ã´ÈÓš2
